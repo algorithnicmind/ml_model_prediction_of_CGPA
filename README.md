@@ -65,3 +65,5 @@ This project demonstrates the impact of linear regression in predicting package 
 ---
 **Author:** Ankit Sahoo
 
+if you did not understand this you can conatant me 
+
